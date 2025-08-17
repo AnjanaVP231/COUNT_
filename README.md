@@ -1,2 +1,3 @@
 # COUNT_
-Python codes
+🐍 Python assignments
+🏠 House price prediction using linear regression 
